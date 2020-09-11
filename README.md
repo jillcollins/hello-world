@@ -1,2 +1,2 @@
 # hello-world
-learning
+what the hell am i doing
